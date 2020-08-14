@@ -1,3 +1,16 @@
+
+'''
+
+Page Rank
+
+Implemented page rank program based on fact that a website is more 
+important if it is linked to by other important websites using recursive 
+mathematical expression and random surfer probability distribution.
+
+
+'''
+
+
 import os
 import random
 import re
