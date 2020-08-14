@@ -10,12 +10,16 @@ mathematical expression and random surfer probability distribution.
 
 '''
 
+# Importing Libraries
 
 import os
 import random
 import re
 import sys
 import math
+
+
+# Defining Global Constants
 
 DAMPING = 0.85
 SAMPLES = 100000
