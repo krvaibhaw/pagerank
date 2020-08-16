@@ -191,7 +191,7 @@ def iterate_pagerank(corpus, damping_factor):
         for page in pagerank:
             total = float(0)
 
-            for possible_page in corpus:
+            for possible_page in corpus: 
                 
                 # We consider each possible page that links to current page
                 
