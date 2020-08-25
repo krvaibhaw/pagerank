@@ -21,19 +21,20 @@ mathematical expression and random surfer probability distribution.
 ``` 
 3. Run the program:
 ```
-    $ python pagerank.py 
+    $ python pagerank.py <website containing folder path>
 ```
-4. Input the size of the required password
+Example :
+
 ```
-    Enter total number of characters : 20
+    $ python pagerank.py corpus0
 ```
-5. A password of the required size will be displayed
-```
-    n8%%<m%>[9mgI451%|cB
-```
+4. Output after parsing
+
+	Ranking of given webpages using sampling and iterations.
+	<br>Sample output can be accessed in samples section.
 
 <br>
-Feel free to follow along the code provided along with mentioned comments for
+Feel free to follow along the code provided along with mentioned comments for 
 <br>better understanding of the project, if any issues feel free to reach me out.
 <br>
 
