@@ -1,4 +1,4 @@
-# Bitpass Password Generator
+# Page Rank
 
 ![](https://img.shields.io/badge/Excitement-High-red)
 ![](https://img.shields.io/badge/Maintained-Yes-blue)
@@ -6,6 +6,10 @@
 
 ![](https://img.shields.io/github/issues/krvaibhaw/blockchain)
 ![](https://img.shields.io/badge/Python-blue)
+
+Implemented page rank program based on fact that a website is more 
+important if it is linked to by other important websites using recursive 
+mathematical expression and random surfer probability distribution.
 
 
 ## Installation
@@ -17,7 +21,7 @@
 ``` 
 3. Run the program:
 ```
-    $ python bitpass.py 
+    $ python pagerank.py 
 ```
 4. Input the size of the required password
 ```
