@@ -1,0 +1,13 @@
+
+PageRank Results from Sampling (n = 100000)
+  1.html: 0.2182
+  2.html: 0.4291
+  3.html: 0.2214
+  4.html: 0.1314
+
+
+PageRank Results from Iteration
+  1.html: 0.2198
+  2.html: 0.4294
+  3.html: 0.2198
+  4.html: 0.1311
