@@ -1,0 +1,19 @@
+
+PageRank Results from Sampling (n = 100000)
+  bfs.html: 0.1153
+  dfs.html: 0.0813
+  games.html: 0.2265
+  minesweeper.html: 0.1182     
+  minimax.html: 0.1303
+  search.html: 0.2113
+  tictactoe.html: 0.1171       
+
+
+PageRank Results from Iteration
+  bfs.html: 0.1152
+  dfs.html: 0.0809
+  games.html: 0.2277
+  minesweeper.html: 0.1180     
+  minimax.html: 0.1312
+  search.html: 0.2090
+  tictactoe.html: 0.1180
