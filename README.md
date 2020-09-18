@@ -6,6 +6,7 @@
 
 ![](https://img.shields.io/github/issues/krvaibhaw/blockchain)
 ![](https://img.shields.io/badge/Python-blue)
+![](https://img.shields.io/badge/HTML-orange)
 
 Implemented page rank program based on fact that a website is more 
 important if it is linked to by other important websites using recursive 
