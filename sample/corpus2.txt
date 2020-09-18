@@ -1,0 +1,21 @@
+
+PageRank Results from Sampling (n = 100000)
+  ai.html: 0.1874
+  algorithms.html: 0.1074      
+  c.html: 0.1252
+  inference.html: 0.1269       
+  logic.html: 0.0270
+  programming.html: 0.2309     
+  python.html: 0.1238
+  recursion.html: 0.0715  
+
+
+PageRank Results from Iteration
+  ai.html: 0.1889
+  algorithms.html: 0.1064      
+  c.html: 0.1238
+  inference.html: 0.1289
+  logic.html: 0.0264
+  programming.html: 0.2301
+  python.html: 0.1238
+  recursion.html: 0.0717
